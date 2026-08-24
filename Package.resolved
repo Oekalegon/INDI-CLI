@@ -1,5 +1,5 @@
 {
-  "originHash" : "dedc6b3f9cdefe39c4cc2ce213b02007d804eaf0fd34d5dea4d44d4826788260",
+  "originHash" : "852e5ade29ee2af2b15e2caff0e772bb693445a504901c044fa7d161b3a1749a",
   "pins" : [
     {
       "identity" : "eventsource",
@@ -8,6 +8,15 @@
       "state" : {
         "revision" : "86b5096ac59ab46e66bd1f6377c604bc1dab0bc2",
         "version" : "1.5.1"
+      }
+    },
+    {
+      "identity" : "indimcpkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Oekalegon/INDIMCPKit.git",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "0c7e282110c73bbb2ca1b07992bb2e029452e0fc"
       }
     },
     {
